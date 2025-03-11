@@ -12,7 +12,7 @@ public class PrjClasses {
 
     public static void main(String[] args) {
         
-        newClass nc = new newClass(); //craeting an onbject of new class
+        newClass nc = new newClass(); //creating an object of new class
        
         nc.helloClass(); // have to use the variable name nc to communicate with the class
         
